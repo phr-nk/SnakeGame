@@ -1,2 +1,2 @@
-# SnakeGameInJS
-A snake game made with JavaScript.
+# SnakeGame
+A snake game made with HTML.
